@@ -1,5 +1,6 @@
-
-
-
+navbar added
 
 getting ready with the project
+
+
+
